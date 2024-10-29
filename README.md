@@ -1,4 +1,5 @@
 # Memos - Open Source, Self-hosted, Your Notes, Your Way
+#By Mudassir Alam
 
 <img align="right" height="96px" src="https://www.usememos.com/logo-rounded.png" alt="Memos" />
 
